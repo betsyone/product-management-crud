@@ -49,9 +49,6 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application. It allows 
 
 ## Contributing
 
-Feel free to fork this repository, make improvements, and submit a pull request!
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
